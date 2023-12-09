@@ -31,5 +31,5 @@ func main() {
 	fmt.Println(sub(1, 2))
 	fmt.Println(mul(1, 2))
 	fmt.Println(dev(1, 2))
-	display("Hello Hitflow")
+	display("Hello gitflow")
 }
